@@ -5,9 +5,9 @@
     "branch": 	   "cm-13.0"
   },
   {
-   "repository":  "CyanogenMod/android_kernel_asus_moorefield",
+   "repository":  "Nyks45/OctoDex-Kernel",
    "target_path": "kernel/asus/moorefield",
-   "branch":      "cm-13.0"
+   "branch":      "Minimal"
   },
   {
    "repository":  "CyanogenMod/android_external_stlport",
