@@ -1,0 +1,7 @@
+# Hardware Info
+ro.device.chipset=Intel® Atom™ Quad Core Z3580/Intel® Atom™ Quad Core Z3560
+ro.device.cpu=Quad-core 2.3 GHz/Quad-core 1.8 GHz
+ro.device.gpu=PowerVR G6430
+ro.device.rear_cam=13 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=1080x1920 
