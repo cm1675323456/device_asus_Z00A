@@ -2,12 +2,12 @@
   {
     "repository":  "Nyks45/android_device_asus_mofd-common",
     "target_path": "device/asus/mofd-common",
-    "branch": 	   "cm-13.0"
+    "branch": 	   "zf2_Mrebase"
   },
   {
-   "repository":  "Nyks45/OctoDex-Kernel",
+   "repository":  "Nyks45/Mkernel",
    "target_path": "kernel/asus/moorefield",
-   "branch":      "Minimal"
+   "branch":      "zf2_Mrebase"
   },
   {
    "repository":  "CyanogenMod/android_external_stlport",
@@ -15,8 +15,8 @@
    "branch":      "cm-13.0"
   },
   {
-   "repository":  "AICP/proprietary_vendor_asus",
+   "repository":  "Nyks45/proprietary_vendor_asus-1",
    "target_path": "vendor/asus",
-   "branch":      "mm6.0"
+   "branch":      "zf2_Mrebase"
   }
 ]
