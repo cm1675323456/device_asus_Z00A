@@ -17,9 +17,6 @@
 # inherit from common mofd-common
 -include device/asus/mofd-common/BoardConfigCommon.mk
 
-# Charger
-BOARD_HEALTHD_CUSTOM_CHARGER_RES := device/asus/Z00A/charger/images
-
 # Mkbootimg
 BOARD_BOOT_KEY := device/asus/Z00A/keys/boot_z00a.sig
 BOARD_RECOVERY_KEY := device/asus/Z00A/keys/recovery_z00a.sig
