@@ -2,6 +2,6 @@
 host=gerrit.aicp-rom.com
 port=29418
 project=AICP/device_asus_Z00A
-defaultbranch=mm6.0
+defaultbranch=n7.0
 defaultremote=review
 defaultrebase=0
