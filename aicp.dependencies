@@ -15,8 +15,8 @@
    "branch":      "cm-13.0"
   },
   {
-   "repository":  "Nyks45/proprietary_vendor_asus-1",
+   "repository":  "AICP/proprietary_vendor_asus",
    "target_path": "vendor/asus",
-   "branch":      "zf2_Mrebase"
+   "branch":      "mm6.0"
   }
 ]
